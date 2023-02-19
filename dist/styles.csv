@@ -1,5 +1,6 @@
 ﻿name,prompt,negative_prompt
 naifu基础起手式,"masterpiece, best quality","lowres, bad anatomy, bad hands, text, error, missing fingers, extra digit, fewer digits, cropped, worst quality, low quality, normal quality, jpeg artifacts, signature, watermark, username, blurry,artist name"
+橘子3AOM3,"masterpiece,best quality,1girl,","(worst quality, low quality:1.4),extra fingers,fewer fingers,futa,"
 橘子模型专用,"masterpiece, best quality","(worst quality, low quality:1.4)"
 Counterfeit-V2.5,"((masterpiece,best quality)),2girls,","EasyNegative, extra fingers,fewer fingers,"
 Grapefruit,"masterpiece,best quality,1girl,","(worst quality, low quality:1.4),extra fingers,fewer fingers,"
