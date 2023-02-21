@@ -4,6 +4,7 @@ naifu基础起手式,"masterpiece, best quality","lowres, bad anatomy, bad hands
 橘子模型专用,"masterpiece, best quality","(worst quality, low quality:1.4)"
 Counterfeit-V2.5,"((masterpiece,best quality)),2girls,","EasyNegative, extra fingers,fewer fingers,"
 Grapefruit,"masterpiece,best quality,1girl,","(worst quality, low quality:1.4),extra fingers,fewer fingers,"
+wlop,"masterpiece,best quality,1girl,","EasyNegative, lowres, (low quality:1.4),"
 宫濑,"masterpiece, best quality","EasyNegative, extra fingers,fewer fingers,"
 炫彩厚涂(HyperBombMix),"(masterpiece, sidelighting, finely detailed beautiful eyes: 1.2),","(worst quality, low quality:1.4), watermark, logo,"
 炫彩厚涂(FaceBomb),"(masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), masterpiece*portrait, realistic, 3d face, lustrous skin,","(worst quality, low quality:1.4), watermark, logo,"
