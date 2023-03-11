@@ -4,10 +4,7 @@ naifu基础起手式,"masterpiece, best quality","lowres, bad anatomy, bad hands
 橘子模型专用,"masterpiece, best quality","(worst quality, low quality:1.4)"
 Counterfeit-V2.5,"((masterpiece,best quality)),2girls,","EasyNegative, extra fingers,fewer fingers,"
 Grapefruit,"masterpiece,best quality,1girl,","(worst quality, low quality:1.4),extra fingers,fewer fingers,"
-wlop,"masterpiece,best quality,1girl,","EasyNegative, lowres, (low quality:1.4),"
 宫濑,"masterpiece, best quality","EasyNegative, extra fingers,fewer fingers,"
-炫彩厚涂(HyperBombMix),"(masterpiece, sidelighting, finely detailed beautiful eyes: 1.2),","(worst quality, low quality:1.4), watermark, logo,"
-炫彩厚涂(FaceBomb),"(masterpiece, sidelighting, finely detailed beautiful eyes: 1.2), masterpiece*portrait, realistic, 3d face, lustrous skin,","(worst quality, low quality:1.4), watermark, logo,"
 merongmix++,"(masterpiece:1.1),(best quality:1.1),1girl","(low quality, worst quality:1.4), (realistic:1.0),"
 高质壁纸,"masterpiece, best quality, 8k, finely detailed beautiful eyes, vividcolor, beautiful detailed face, Cinematic light, ray tracing, high resolution illustration, colorful, 8k wallpaper, highres",
 精致女孩,an extremely delicate and beautiful girl,
@@ -20,3 +17,4 @@ merongmix++,"(masterpiece:1.1),(best quality:1.1),1girl","(low quality, worst qu
 超高细节,"8k wallpaper,(best quality:1.12),(detailed:1.12),(intricate:1.12),(ultra-detailed:1.12),(highres:1.12)",
 放开裙子,,"(grab clothes, grab dress, grab skirt)"
 长T恤,"t-shirt, long t-shirt, narrow waist t-shirt, t-shirt over hips, short dress","bare, nafw, sagging breast, crop top"
+donko-mix,"masterpiece,best quality,1girl,1boy,nsfw,","(worst quality, low quality, normal quality, low resolution, lowres:1.4), 3d, blurry, text, artist name, signature, multiple views, extra digits, fewer digits, halo, multicolored hair,"
