@@ -8,7 +8,7 @@
         ""
     ],
     "txt2img/Sampling method/visible": true,
-    "txt2img/Sampling method/value": "DDIM",
+    "txt2img/Sampling method/value": "DPM++ SDE Karras",
     "txt2img/Sampling steps/visible": true,
     "txt2img/Sampling steps/value": 20,
     "txt2img/Sampling steps/minimum": 1,
